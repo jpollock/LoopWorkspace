@@ -37,4 +37,7 @@
    <FileRef
       location = "group:MKRingProgressView/MKRingProgressView.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:swift/PubNub.xcodeproj">
+   </FileRef>
 </Workspace>
